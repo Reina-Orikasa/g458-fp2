@@ -596,6 +596,36 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-color: rgb(56 189 248 / var(--tw-border-opacity));
 }
 
+.bg-2020-0 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 212 / var(--tw-bg-opacity));
+}
+
+.bg-2020-1 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 227 145 / var(--tw-bg-opacity));
+}
+
+.bg-2020-2 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 196 79 / var(--tw-bg-opacity));
+}
+
+.bg-2020-3 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 153 41 / var(--tw-bg-opacity));
+}
+
+.bg-2020-4 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(236 112 20 / var(--tw-bg-opacity));
+}
+
+.bg-2020-5 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(204 76 2 / var(--tw-bg-opacity));
+}
+
 .p-8 {
   padding: 2rem;
 }
@@ -608,16 +638,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-right: 4rem;
 }
 
-.pb-10 {
-  padding-bottom: 2.5rem;
+.pb-8 {
+  padding-bottom: 2rem;
 }
 
 .pb-4 {
   padding-bottom: 1rem;
-}
-
-.pb-8 {
-  padding-bottom: 2rem;
 }
 
 .text-left {
